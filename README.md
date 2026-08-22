@@ -1,105 +1,104 @@
-<h1 align="center">Hi there, I'm Ponraj D 👋</h1>
-
-<h3 align="center">Full Stack Developer | AI |B.Tech IT Student</h3>
+<h1 align="center">Hi 👋, I'm Ponraj D</h1>
+<h3 align="center">Final-Year B.Tech IT Student | Full-Stack & AI/ML Developer | Building for Bharat 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+%26+RAG+Systems+Builder;Building+real-world+solutions+for+Education+%26+Fintech;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+Stack);Building+AI-Powered+Agri-Tech+Solutions;WhatsApp-Native+Product+Builder;Open+to+SDE+%2F+Full-Stack+Opportunities" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ponraj-d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ponraj-dr-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/DPonraj/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🎓 B.Tech Information Technology student at **V.S.B Engineering College**, Karur, Tamil Nadu (Batch 2023–2027)
-- 💻 I build full-stack web apps and AI-powered systems — from campus management platforms to fintech ML models
-- 🌱 Currently sharpening DSA, SQL, Linux/Shell, Networking, and AI/ML for upcoming placement assessments
-- 💡 Exploring AI-driven micro-entrepreneurship ideas around the Indian market (WhatsApp, UPI, local outreach)
-- 📫 Reach me via the links below
-- ⚡ Fun fact: I once shipped a 3,700+ line Streamlit app for a hackathon in just a few days
+- 🎓 Final-year **B.Tech Information Technology** student at V.S.B Engineering College, Karur, Tamil Nadu (Batch 2023–2027)
+- 🌾 Currently building **Vivasayi Nanban (விவசாயி நண்பன்)** — a WhatsApp-native agricultural advisory platform for Tamil Nadu farmers
+- 🤖 Passionate about **AI/ML applications, Agri-tech, and Micro-entrepreneurship using AI**
+- 💼 Interned at **CodeAlpha** (Frontend Intern) and **Infosys Springboard 5.0**
+- 🏆 Team Lead at **HackWithAMYPO 2026** — built a local RAG-based Q&A system (React, FastAPI, FAISS, llama.cpp)
+- 📫 Reach me: **linkedin.com/in/ponraj-d**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/Groq_API-FF6B00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,java,fastapi,vite,docker,git,vercel,figma,html,css,js&perline=8" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[KiranaLens](https://github.com/ponraj056)** | AI/ML solution for remote cash-flow underwriting of kirana stores using computer vision & geo-intelligence (TenzorX 2026 Hackathon) | YOLOv8, XGBoost, Streamlit, OpenStreetMap |
-| **[Student-Vault-System](https://github.com/ponraj056/Student-Vault-System-AI-powered-Academic-Intelligence-Platform)** | AI-powered academic intelligence platform with RBAC, RAG-based chat assistant, and bulk Excel processing | Node.js, React, MongoDB, Groq, Cohere |
-| **SmartCampus** | WhatsApp-based student management bot for 165+ students with attendance, results, and RAG search | Node.js, MongoDB, Groq, ChromaDB, Meta Cloud API |
-| **Student Management System** | Production-ready SMS with WhatsApp integration and AI chatbot widget | Express.js, PostgreSQL, JWT, Docker |
-| **E-commerce Platform** | Full-stack online store with role-based access and modern UI | Next.js 14, TypeScript, MongoDB Atlas, Zustand |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌾 Vivasayi Nanban</h4>
+      <p>WhatsApp-native agri-advisory platform for TN farmers — MERN stack + FastAPI/YOLOv8 ML microservice for crop disease detection, machine rental module, bilingual (Tamil/English) bot menus.</p>
+      <img src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-YOLOv8-purple?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>🎤 Elevate AI</h4>
+      <p>AI mock interview platform for engineering students — resume parsing, adaptive Q&A, voice/JAM rounds, Judge0 coding rounds, proctoring, and detailed feedback reports.</p>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Groq-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Whisper-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📚 StudentVault</h4>
+      <p>RAG-based academic platform with Cohere embeddings + Groq LLM, JWT/OTP auth, role-based access for Student/Staff/HOD/Admin.</p>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-RAG-blueviolet?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>🛒 KiranaLens</h4>
+      <p>National hackathon project (TenzorX 2026) — YOLOv8 + XGBoost + OpenStreetMap/Overpass API, built with Streamlit.</p>
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/-XGBoost-green?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 Experience
-
-- **Full Stack Developer Intern** — CodeAlpha *(Jan 2026)*
-- **Intern** — Infosys Springboard *(Dec 2024)*
-
-### 📜 Certifications
-
-NPTEL · Infosys Springboard · HCL-GUVI
-
----
-
-
-
-### 🌐 Connect With Me
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ponrajdr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ponraj056" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://ponraj-dr-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/DPonraj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ponraj056&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponraj056&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponraj056&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ponraj056&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><i>"Building solutions today, for the placements and ventures of tomorrow."</i></p>
+### 🌐 3D Contribution Chart
+
+> ⚡ This section auto-updates daily via GitHub Actions. See setup instructions below.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ponraj056/ponraj056/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ponraj056&label=Profile%20Views&color=2EA043&style=flat" />
+</p>
